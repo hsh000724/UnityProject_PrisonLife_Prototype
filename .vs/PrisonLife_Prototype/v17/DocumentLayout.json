@@ -1,0 +1,695 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\hsh000724\\PrisonLife_Prototype\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC2919B0-B17D-F208-4063-846E9D7F8F82}|Assembly-CSharp.csproj|C:\\hsh000724\\PrisonLife_Prototype\\assets\\scripts\\player\\playertoolvisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC2919B0-B17D-F208-4063-846E9D7F8F82}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playertoolvisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC2919B0-B17D-F208-4063-846E9D7F8F82}|Assembly-CSharp.csproj|c:\\hsh000724\\prisonlife_prototype\\assets\\scripts\\ui\\mutebuttonui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC2919B0-B17D-F208-4063-846E9D7F8F82}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\mutebuttonui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC2919B0-B17D-F208-4063-846E9D7F8F82}|Assembly-CSharp.csproj|c:\\hsh000724\\prisonlife_prototype\\assets\\scripts\\managers\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC2919B0-B17D-F208-4063-846E9D7F8F82}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC2919B0-B17D-F208-4063-846E9D7F8F82}|Assembly-CSharp.csproj|C:\\hsh000724\\PrisonLife_Prototype\\assets\\scripts\\input\\joystickinputhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC2919B0-B17D-F208-4063-846E9D7F8F82}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\input\\joystickinputhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC2919B0-B17D-F208-4063-846E9D7F8F82}|Assembly-CSharp.csproj|C:\\hsh000724\\PrisonLife_Prototype\\assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC2919B0-B17D-F208-4063-846E9D7F8F82}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC2919B0-B17D-F208-4063-846E9D7F8F82}|Assembly-CSharp.csproj|C:\\hsh000724\\PrisonLife_Prototype\\assets\\scripts\\ui\\gameclearui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC2919B0-B17D-F208-4063-846E9D7F8F82}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\gameclearui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC2919B0-B17D-F208-4063-846E9D7F8F82}|Assembly-CSharp.csproj|C:\\hsh000724\\PrisonLife_Prototype\\assets\\scripts\\ui\\unlocknoticeui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC2919B0-B17D-F208-4063-846E9D7F8F82}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\unlocknoticeui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC2919B0-B17D-F208-4063-846E9D7F8F82}|Assembly-CSharp.csproj|C:\\hsh000724\\PrisonLife_Prototype\\assets\\scripts\\ui\\unlockzoneui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC2919B0-B17D-F208-4063-846E9D7F8F82}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\unlockzoneui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC2919B0-B17D-F208-4063-846E9D7F8F82}|Assembly-CSharp.csproj|C:\\hsh000724\\PrisonLife_Prototype\\assets\\scripts\\managers\\unlockmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC2919B0-B17D-F208-4063-846E9D7F8F82}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\unlockmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC2919B0-B17D-F208-4063-846E9D7F8F82}|Assembly-CSharp.csproj|C:\\hsh000724\\PrisonLife_Prototype\\assets\\scripts\\zone\\moneyzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC2919B0-B17D-F208-4063-846E9D7F8F82}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\zone\\moneyzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC2919B0-B17D-F208-4063-846E9D7F8F82}|Assembly-CSharp.csproj|C:\\hsh000724\\PrisonLife_Prototype\\assets\\scripts\\unlock\\minerzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC2919B0-B17D-F208-4063-846E9D7F8F82}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\unlock\\minerzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC2919B0-B17D-F208-4063-846E9D7F8F82}|Assembly-CSharp.csproj|C:\\hsh000724\\PrisonLife_Prototype\\assets\\scripts\\npc\\cashier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC2919B0-B17D-F208-4063-846E9D7F8F82}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\npc\\cashier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC2919B0-B17D-F208-4063-846E9D7F8F82}|Assembly-CSharp.csproj|C:\\hsh000724\\PrisonLife_Prototype\\assets\\scripts\\unlock\\drillzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC2919B0-B17D-F208-4063-846E9D7F8F82}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\unlock\\drillzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC2919B0-B17D-F208-4063-846E9D7F8F82}|Assembly-CSharp.csproj|C:\\hsh000724\\PrisonLife_Prototype\\assets\\scripts\\player\\playerwallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC2919B0-B17D-F208-4063-846E9D7F8F82}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerwallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC2919B0-B17D-F208-4063-846E9D7F8F82}|Assembly-CSharp.csproj|C:\\hsh000724\\PrisonLife_Prototype\\assets\\scripts\\tutorial\\tutorialarrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC2919B0-B17D-F208-4063-846E9D7F8F82}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tutorial\\tutorialarrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC2919B0-B17D-F208-4063-846E9D7F8F82}|Assembly-CSharp.csproj|C:\\hsh000724\\PrisonLife_Prototype\\assets\\scripts\\zone\\counterzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC2919B0-B17D-F208-4063-846E9D7F8F82}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\zone\\counterzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC2919B0-B17D-F208-4063-846E9D7F8F82}|Assembly-CSharp.csproj|C:\\hsh000724\\PrisonLife_Prototype\\assets\\scripts\\zone\\handcuffzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC2919B0-B17D-F208-4063-846E9D7F8F82}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\zone\\handcuffzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC2919B0-B17D-F208-4063-846E9D7F8F82}|Assembly-CSharp.csproj|C:\\hsh000724\\PrisonLife_Prototype\\assets\\scripts\\zone\\orezone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC2919B0-B17D-F208-4063-846E9D7F8F82}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\zone\\orezone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC2919B0-B17D-F208-4063-846E9D7F8F82}|Assembly-CSharp.csproj|C:\\hsh000724\\PrisonLife_Prototype\\assets\\scripts\\player\\playermining.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC2919B0-B17D-F208-4063-846E9D7F8F82}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playermining.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC2919B0-B17D-F208-4063-846E9D7F8F82}|Assembly-CSharp.csproj|C:\\hsh000724\\PrisonLife_Prototype\\assets\\scripts\\tutorial\\tutorialmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC2919B0-B17D-F208-4063-846E9D7F8F82}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tutorial\\tutorialmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC2919B0-B17D-F208-4063-846E9D7F8F82}|Assembly-CSharp.csproj|C:\\hsh000724\\PrisonLife_Prototype\\assets\\scripts\\mining\\drillmining.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC2919B0-B17D-F208-4063-846E9D7F8F82}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mining\\drillmining.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC2919B0-B17D-F208-4063-846E9D7F8F82}|Assembly-CSharp.csproj|C:\\hsh000724\\PrisonLife_Prototype\\assets\\scripts\\npc\\miner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC2919B0-B17D-F208-4063-846E9D7F8F82}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\npc\\miner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC2919B0-B17D-F208-4063-846E9D7F8F82}|Assembly-CSharp.csproj|C:\\hsh000724\\PrisonLife_Prototype\\assets\\scripts\\unlock\\unlockzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC2919B0-B17D-F208-4063-846E9D7F8F82}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\unlock\\unlockzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC2919B0-B17D-F208-4063-846E9D7F8F82}|Assembly-CSharp.csproj|C:\\hsh000724\\PrisonLife_Prototype\\assets\\scripts\\production\\counter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC2919B0-B17D-F208-4063-846E9D7F8F82}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\production\\counter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC2919B0-B17D-F208-4063-846E9D7F8F82}|Assembly-CSharp.csproj|C:\\hsh000724\\PrisonLife_Prototype\\assets\\scripts\\production\\handcuffmachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC2919B0-B17D-F208-4063-846E9D7F8F82}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\production\\handcuffmachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC2919B0-B17D-F208-4063-846E9D7F8F82}|Assembly-CSharp.csproj|C:\\hsh000724\\PrisonLife_Prototype\\assets\\scripts\\mining\\oreobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC2919B0-B17D-F208-4063-846E9D7F8F82}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mining\\oreobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC2919B0-B17D-F208-4063-846E9D7F8F82}|Assembly-CSharp.csproj|C:\\hsh000724\\PrisonLife_Prototype\\assets\\scripts\\prison\\prisonmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC2919B0-B17D-F208-4063-846E9D7F8F82}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\prison\\prisonmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC2919B0-B17D-F208-4063-846E9D7F8F82}|Assembly-CSharp.csproj|C:\\hsh000724\\PrisonLife_Prototype\\assets\\scripts\\prison\\prisonprisoner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC2919B0-B17D-F208-4063-846E9D7F8F82}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\prison\\prisonprisoner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC2919B0-B17D-F208-4063-846E9D7F8F82}|Assembly-CSharp.csproj|C:\\hsh000724\\PrisonLife_Prototype\\assets\\scripts\\zone\\prisonzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC2919B0-B17D-F208-4063-846E9D7F8F82}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\zone\\prisonzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC2919B0-B17D-F208-4063-846E9D7F8F82}|Assembly-CSharp.csproj|C:\\hsh000724\\PrisonLife_Prototype\\assets\\scripts\\prison\\prisoncell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC2919B0-B17D-F208-4063-846E9D7F8F82}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\prison\\prisoncell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC2919B0-B17D-F208-4063-846E9D7F8F82}|Assembly-CSharp.csproj|C:\\hsh000724\\PrisonLife_Prototype\\assets\\scripts\\camera\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC2919B0-B17D-F208-4063-846E9D7F8F82}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camera\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC2919B0-B17D-F208-4063-846E9D7F8F82}|Assembly-CSharp.csproj|C:\\hsh000724\\PrisonLife_Prototype\\assets\\scripts\\prisoner\\prisonerqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC2919B0-B17D-F208-4063-846E9D7F8F82}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\prisoner\\prisonerqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC2919B0-B17D-F208-4063-846E9D7F8F82}|Assembly-CSharp.csproj|C:\\hsh000724\\PrisonLife_Prototype\\assets\\scripts\\managers\\minermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC2919B0-B17D-F208-4063-846E9D7F8F82}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\minermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC2919B0-B17D-F208-4063-846E9D7F8F82}|Assembly-CSharp.csproj|C:\\hsh000724\\PrisonLife_Prototype\\assets\\scripts\\unlock\\cashierzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC2919B0-B17D-F208-4063-846E9D7F8F82}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\unlock\\cashierzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC2919B0-B17D-F208-4063-846E9D7F8F82}|Assembly-CSharp.csproj|C:\\hsh000724\\PrisonLife_Prototype\\assets\\joystick pack\\scripts\\base\\joystick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC2919B0-B17D-F208-4063-846E9D7F8F82}|Assembly-CSharp.csproj|solutionrelative:assets\\joystick pack\\scripts\\base\\joystick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC2919B0-B17D-F208-4063-846E9D7F8F82}|Assembly-CSharp.csproj|C:\\hsh000724\\PrisonLife_Prototype\\assets\\scripts\\unlock\\drillbulldozerzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC2919B0-B17D-F208-4063-846E9D7F8F82}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\unlock\\drillbulldozerzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC2919B0-B17D-F208-4063-846E9D7F8F82}|Assembly-CSharp.csproj|C:\\hsh000724\\PrisonLife_Prototype\\assets\\scripts\\player\\playermoneystack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC2919B0-B17D-F208-4063-846E9D7F8F82}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playermoneystack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC2919B0-B17D-F208-4063-846E9D7F8F82}|Assembly-CSharp.csproj|C:\\hsh000724\\PrisonLife_Prototype\\assets\\scripts\\camera\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC2919B0-B17D-F208-4063-846E9D7F8F82}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camera\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC2919B0-B17D-F208-4063-846E9D7F8F82}|Assembly-CSharp.csproj|C:\\hsh000724\\PrisonLife_Prototype\\assets\\scripts\\prisoner\\prisoner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC2919B0-B17D-F208-4063-846E9D7F8F82}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\prisoner\\prisoner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC2919B0-B17D-F208-4063-846E9D7F8F82}|Assembly-CSharp.csproj|C:\\hsh000724\\PrisonLife_Prototype\\assets\\scripts\\ui\\demandbubbleui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC2919B0-B17D-F208-4063-846E9D7F8F82}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\demandbubbleui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC2919B0-B17D-F208-4063-846E9D7F8F82}|Assembly-CSharp.csproj|C:\\hsh000724\\PrisonLife_Prototype\\assets\\scripts\\prisoner\\prisonerspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC2919B0-B17D-F208-4063-846E9D7F8F82}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\prisoner\\prisonerspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC2919B0-B17D-F208-4063-846E9D7F8F82}|Assembly-CSharp.csproj|C:\\hsh000724\\PrisonLife_Prototype\\Assets\\Joystick Pack\\Scripts\\Joysticks\\FloatingJoystick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC2919B0-B17D-F208-4063-846E9D7F8F82}|Assembly-CSharp.csproj|solutionrelative:Assets\\Joystick Pack\\Scripts\\Joysticks\\FloatingJoystick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MuteButtonUI.cs",
+              "DocumentMoniker": "C:\\hsh000724\\PrisonLife_Prototype\\Assets\\Scripts\\UI\\MuteButtonUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\MuteButtonUI.cs",
+              "ToolTip": "C:\\hsh000724\\PrisonLife_Prototype\\Assets\\Scripts\\UI\\MuteButtonUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\MuteButtonUI.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T06:56:07.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UnlockManager.cs",
+              "DocumentMoniker": "C:\\hsh000724\\PrisonLife_Prototype\\Assets\\Scripts\\Managers\\UnlockManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\UnlockManager.cs",
+              "ToolTip": "C:\\hsh000724\\PrisonLife_Prototype\\Assets\\Scripts\\Managers\\UnlockManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\UnlockManager.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAuwG4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T10:48:42.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UnlockNoticeUI.cs",
+              "DocumentMoniker": "C:\\hsh000724\\PrisonLife_Prototype\\Assets\\Scripts\\UI\\UnlockNoticeUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UnlockNoticeUI.cs",
+              "ToolTip": "C:\\hsh000724\\PrisonLife_Prototype\\Assets\\Scripts\\UI\\UnlockNoticeUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\UnlockNoticeUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T10:47:05.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameClearUI.cs",
+              "DocumentMoniker": "C:\\hsh000724\\PrisonLife_Prototype\\Assets\\Scripts\\UI\\GameClearUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\GameClearUI.cs",
+              "ToolTip": "C:\\hsh000724\\PrisonLife_Prototype\\Assets\\Scripts\\UI\\GameClearUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\GameClearUI.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAYwHwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T05:34:44.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\hsh000724\\PrisonLife_Prototype\\Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "ToolTip": "C:\\hsh000724\\PrisonLife_Prototype\\Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerMovement.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAQwIQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T06:09:44.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JoystickInputHandler.cs",
+              "DocumentMoniker": "C:\\hsh000724\\PrisonLife_Prototype\\Assets\\Scripts\\Input\\JoystickInputHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Input\\JoystickInputHandler.cs",
+              "ToolTip": "C:\\hsh000724\\PrisonLife_Prototype\\Assets\\Scripts\\Input\\JoystickInputHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Input\\JoystickInputHandler.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwEUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T11:46:21.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerToolVisual.cs",
+              "DocumentMoniker": "C:\\hsh000724\\PrisonLife_Prototype\\Assets\\Scripts\\Player\\PlayerToolVisual.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerToolVisual.cs",
+              "ToolTip": "C:\\hsh000724\\PrisonLife_Prototype\\Assets\\Scripts\\Player\\PlayerToolVisual.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerToolVisual.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAHkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T13:19:55.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MinerZone.cs",
+              "DocumentMoniker": "C:\\hsh000724\\PrisonLife_Prototype\\Assets\\Scripts\\Unlock\\MinerZone.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Unlock\\MinerZone.cs",
+              "ToolTip": "C:\\hsh000724\\PrisonLife_Prototype\\Assets\\Scripts\\Unlock\\MinerZone.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Unlock\\MinerZone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T10:46:05.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SoundManager.cs",
+              "DocumentMoniker": "C:\\hsh000724\\PrisonLife_Prototype\\Assets\\Scripts\\Managers\\SoundManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\SoundManager.cs",
+              "ToolTip": "C:\\hsh000724\\PrisonLife_Prototype\\Assets\\Scripts\\Managers\\SoundManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\SoundManager.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAQwGMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T09:58:01.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Cashier.cs",
+              "DocumentMoniker": "C:\\hsh000724\\PrisonLife_Prototype\\Assets\\Scripts\\NPC\\Cashier.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NPC\\Cashier.cs",
+              "ToolTip": "C:\\hsh000724\\PrisonLife_Prototype\\Assets\\Scripts\\NPC\\Cashier.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NPC\\Cashier.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAQwD0AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T10:38:40.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UnlockZoneUI.cs",
+              "DocumentMoniker": "C:\\hsh000724\\PrisonLife_Prototype\\Assets\\Scripts\\UI\\UnlockZoneUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UnlockZoneUI.cs",
+              "ToolTip": "C:\\hsh000724\\PrisonLife_Prototype\\Assets\\Scripts\\UI\\UnlockZoneUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\UnlockZoneUI.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAAwHQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T12:28:47.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DrillZone.cs",
+              "DocumentMoniker": "C:\\hsh000724\\PrisonLife_Prototype\\Assets\\Scripts\\Unlock\\DrillZone.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Unlock\\DrillZone.cs",
+              "ToolTip": "C:\\hsh000724\\PrisonLife_Prototype\\Assets\\Scripts\\Unlock\\DrillZone.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Unlock\\DrillZone.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T10:45:38.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MoneyZone.cs",
+              "DocumentMoniker": "C:\\hsh000724\\PrisonLife_Prototype\\Assets\\Scripts\\Zone\\MoneyZone.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Zone\\MoneyZone.cs",
+              "ToolTip": "C:\\hsh000724\\PrisonLife_Prototype\\Assets\\Scripts\\Zone\\MoneyZone.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Zone\\MoneyZone.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAuwEEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T05:16:55.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PlayerWallet.cs",
+              "DocumentMoniker": "C:\\hsh000724\\PrisonLife_Prototype\\Assets\\Scripts\\Player\\PlayerWallet.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerWallet.cs",
+              "ToolTip": "C:\\hsh000724\\PrisonLife_Prototype\\Assets\\Scripts\\Player\\PlayerWallet.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerWallet.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAgwDsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T06:39:31.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TutorialArrow.cs",
+              "DocumentMoniker": "C:\\hsh000724\\PrisonLife_Prototype\\Assets\\Scripts\\Tutorial\\TutorialArrow.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Tutorial\\TutorialArrow.cs",
+              "ToolTip": "C:\\hsh000724\\PrisonLife_Prototype\\Assets\\Scripts\\Tutorial\\TutorialArrow.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Tutorial\\TutorialArrow.cs",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAYwJ0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T16:46:50.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OreZone.cs",
+              "DocumentMoniker": "C:\\hsh000724\\PrisonLife_Prototype\\Assets\\Scripts\\Zone\\OreZone.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Zone\\OreZone.cs",
+              "ToolTip": "C:\\hsh000724\\PrisonLife_Prototype\\Assets\\Scripts\\Zone\\OreZone.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Zone\\OreZone.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAmwDIAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T09:00:25.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HandcuffZone.cs",
+              "DocumentMoniker": "C:\\hsh000724\\PrisonLife_Prototype\\Assets\\Scripts\\Zone\\HandcuffZone.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Zone\\HandcuffZone.cs",
+              "ToolTip": "C:\\hsh000724\\PrisonLife_Prototype\\Assets\\Scripts\\Zone\\HandcuffZone.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Zone\\HandcuffZone.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwEEAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T05:11:16.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CounterZone.cs",
+              "DocumentMoniker": "C:\\hsh000724\\PrisonLife_Prototype\\Assets\\Scripts\\Zone\\CounterZone.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Zone\\CounterZone.cs",
+              "ToolTip": "C:\\hsh000724\\PrisonLife_Prototype\\Assets\\Scripts\\Zone\\CounterZone.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Zone\\CounterZone.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwBEAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T05:16:41.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PlayerMining.cs",
+              "DocumentMoniker": "C:\\hsh000724\\PrisonLife_Prototype\\Assets\\Scripts\\Player\\PlayerMining.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerMining.cs",
+              "ToolTip": "C:\\hsh000724\\PrisonLife_Prototype\\Assets\\Scripts\\Player\\PlayerMining.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerMining.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAAwLAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T10:46:31.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TutorialManager.cs",
+              "DocumentMoniker": "C:\\hsh000724\\PrisonLife_Prototype\\Assets\\Scripts\\Tutorial\\TutorialManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Tutorial\\TutorialManager.cs",
+              "ToolTip": "C:\\hsh000724\\PrisonLife_Prototype\\Assets\\Scripts\\Tutorial\\TutorialManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Tutorial\\TutorialManager.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAgwK0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T16:47:23.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Miner.cs",
+              "DocumentMoniker": "C:\\hsh000724\\PrisonLife_Prototype\\Assets\\Scripts\\NPC\\Miner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NPC\\Miner.cs",
+              "ToolTip": "C:\\hsh000724\\PrisonLife_Prototype\\Assets\\Scripts\\NPC\\Miner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NPC\\Miner.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAAAHkAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T10:37:02.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UnlockZone.cs",
+              "DocumentMoniker": "C:\\hsh000724\\PrisonLife_Prototype\\Assets\\Scripts\\Unlock\\UnlockZone.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Unlock\\UnlockZone.cs",
+              "ToolTip": "C:\\hsh000724\\PrisonLife_Prototype\\Assets\\Scripts\\Unlock\\UnlockZone.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Unlock\\UnlockZone.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAowFoAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T10:45:12.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DrillMining.cs",
+              "DocumentMoniker": "C:\\hsh000724\\PrisonLife_Prototype\\Assets\\Scripts\\Mining\\DrillMining.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Mining\\DrillMining.cs",
+              "ToolTip": "C:\\hsh000724\\PrisonLife_Prototype\\Assets\\Scripts\\Mining\\DrillMining.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Mining\\DrillMining.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T10:46:54.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Counter.cs",
+              "DocumentMoniker": "C:\\hsh000724\\PrisonLife_Prototype\\Assets\\Scripts\\Production\\Counter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Production\\Counter.cs",
+              "ToolTip": "C:\\hsh000724\\PrisonLife_Prototype\\Assets\\Scripts\\Production\\Counter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Production\\Counter.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAqwEAAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T08:25:07.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "HandcuffMachine.cs",
+              "DocumentMoniker": "C:\\hsh000724\\PrisonLife_Prototype\\Assets\\Scripts\\Production\\HandcuffMachine.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Production\\HandcuffMachine.cs",
+              "ToolTip": "C:\\hsh000724\\PrisonLife_Prototype\\Assets\\Scripts\\Production\\HandcuffMachine.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Production\\HandcuffMachine.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAUwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T10:45:31.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "OreObject.cs",
+              "DocumentMoniker": "C:\\hsh000724\\PrisonLife_Prototype\\Assets\\Scripts\\Mining\\OreObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Mining\\OreObject.cs",
+              "ToolTip": "C:\\hsh000724\\PrisonLife_Prototype\\Assets\\Scripts\\Mining\\OreObject.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Mining\\OreObject.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAkwBIAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T14:17:15.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "PrisonZone.cs",
+              "DocumentMoniker": "C:\\hsh000724\\PrisonLife_Prototype\\Assets\\Scripts\\Zone\\PrisonZone.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Zone\\PrisonZone.cs",
+              "ToolTip": "C:\\hsh000724\\PrisonLife_Prototype\\Assets\\Scripts\\Zone\\PrisonZone.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Zone\\PrisonZone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T05:33:35.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PrisonPrisoner.cs",
+              "DocumentMoniker": "C:\\hsh000724\\PrisonLife_Prototype\\Assets\\Scripts\\Prison\\PrisonPrisoner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Prison\\PrisonPrisoner.cs",
+              "ToolTip": "C:\\hsh000724\\PrisonLife_Prototype\\Assets\\Scripts\\Prison\\PrisonPrisoner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Prison\\PrisonPrisoner.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAQwIIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T05:31:54.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PrisonManager.cs",
+              "DocumentMoniker": "C:\\hsh000724\\PrisonLife_Prototype\\Assets\\Scripts\\Prison\\PrisonManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Prison\\PrisonManager.cs",
+              "ToolTip": "C:\\hsh000724\\PrisonLife_Prototype\\Assets\\Scripts\\Prison\\PrisonManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Prison\\PrisonManager.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAAAJ8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T05:32:08.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "PrisonCell.cs",
+              "DocumentMoniker": "C:\\hsh000724\\PrisonLife_Prototype\\Assets\\Scripts\\Prison\\PrisonCell.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Prison\\PrisonCell.cs",
+              "ToolTip": "C:\\hsh000724\\PrisonLife_Prototype\\Assets\\Scripts\\Prison\\PrisonCell.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Prison\\PrisonCell.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA2wDEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T05:31:39.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CameraController.cs",
+              "DocumentMoniker": "C:\\hsh000724\\PrisonLife_Prototype\\Assets\\Scripts\\Camera\\CameraController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Camera\\CameraController.cs",
+              "ToolTip": "C:\\hsh000724\\PrisonLife_Prototype\\Assets\\Scripts\\Camera\\CameraController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Camera\\CameraController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAYwFYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T05:29:11.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "PrisonerQueue.cs",
+              "DocumentMoniker": "C:\\hsh000724\\PrisonLife_Prototype\\Assets\\Scripts\\Prisoner\\PrisonerQueue.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Prisoner\\PrisonerQueue.cs",
+              "ToolTip": "C:\\hsh000724\\PrisonLife_Prototype\\Assets\\Scripts\\Prisoner\\PrisonerQueue.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Prisoner\\PrisonerQueue.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAuwJcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T04:42:59.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CashierZone.cs",
+              "DocumentMoniker": "C:\\hsh000724\\PrisonLife_Prototype\\Assets\\Scripts\\Unlock\\CashierZone.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Unlock\\CashierZone.cs",
+              "ToolTip": "C:\\hsh000724\\PrisonLife_Prototype\\Assets\\Scripts\\Unlock\\CashierZone.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Unlock\\CashierZone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T10:46:16.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "MinerManager.cs",
+              "DocumentMoniker": "C:\\hsh000724\\PrisonLife_Prototype\\Assets\\Scripts\\Managers\\MinerManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\MinerManager.cs",
+              "ToolTip": "C:\\hsh000724\\PrisonLife_Prototype\\Assets\\Scripts\\Managers\\MinerManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\MinerManager.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvxoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T10:37:40.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Joystick.cs",
+              "DocumentMoniker": "C:\\hsh000724\\PrisonLife_Prototype\\Assets\\Joystick Pack\\Scripts\\Base\\Joystick.cs",
+              "RelativeDocumentMoniker": "Assets\\Joystick Pack\\Scripts\\Base\\Joystick.cs",
+              "ToolTip": "C:\\hsh000724\\PrisonLife_Prototype\\Assets\\Joystick Pack\\Scripts\\Base\\Joystick.cs",
+              "RelativeToolTip": "Assets\\Joystick Pack\\Scripts\\Base\\Joystick.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T11:50:16.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "FloatingJoystick.cs",
+              "DocumentMoniker": "C:\\hsh000724\\PrisonLife_Prototype\\Assets\\Joystick Pack\\Scripts\\Joysticks\\FloatingJoystick.cs",
+              "RelativeDocumentMoniker": "Assets\\Joystick Pack\\Scripts\\Joysticks\\FloatingJoystick.cs",
+              "ToolTip": "C:\\hsh000724\\PrisonLife_Prototype\\Assets\\Joystick Pack\\Scripts\\Joysticks\\FloatingJoystick.cs",
+              "RelativeToolTip": "Assets\\Joystick Pack\\Scripts\\Joysticks\\FloatingJoystick.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA4wBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T11:49:29.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "DrillBulldozerZone.cs",
+              "DocumentMoniker": "C:\\hsh000724\\PrisonLife_Prototype\\Assets\\Scripts\\Unlock\\DrillBulldozerZone.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Unlock\\DrillBulldozerZone.cs",
+              "ToolTip": "C:\\hsh000724\\PrisonLife_Prototype\\Assets\\Scripts\\Unlock\\DrillBulldozerZone.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Unlock\\DrillBulldozerZone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T10:45:54.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "PlayerMoneyStack.cs",
+              "DocumentMoniker": "C:\\hsh000724\\PrisonLife_Prototype\\Assets\\Scripts\\Player\\PlayerMoneyStack.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerMoneyStack.cs",
+              "ToolTip": "C:\\hsh000724\\PrisonLife_Prototype\\Assets\\Scripts\\Player\\PlayerMoneyStack.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerMoneyStack.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAuwDsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T08:45:28.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CameraFollow.cs",
+              "DocumentMoniker": "C:\\hsh000724\\PrisonLife_Prototype\\Assets\\Scripts\\Camera\\CameraFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Camera\\CameraFollow.cs",
+              "ToolTip": "C:\\hsh000724\\PrisonLife_Prototype\\Assets\\Scripts\\Camera\\CameraFollow.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Camera\\CameraFollow.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAswDIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T06:08:30.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "DemandBubbleUI.cs",
+              "DocumentMoniker": "C:\\hsh000724\\PrisonLife_Prototype\\Assets\\Scripts\\UI\\DemandBubbleUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\DemandBubbleUI.cs",
+              "ToolTip": "C:\\hsh000724\\PrisonLife_Prototype\\Assets\\Scripts\\UI\\DemandBubbleUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\DemandBubbleUI.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAuwEsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T05:55:37.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "PrisonerSpawner.cs",
+              "DocumentMoniker": "C:\\hsh000724\\PrisonLife_Prototype\\Assets\\Scripts\\Prisoner\\PrisonerSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Prisoner\\PrisonerSpawner.cs",
+              "ToolTip": "C:\\hsh000724\\PrisonLife_Prototype\\Assets\\Scripts\\Prisoner\\PrisonerSpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Prisoner\\PrisonerSpawner.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAiwB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T04:45:31.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Prisoner.cs",
+              "DocumentMoniker": "C:\\hsh000724\\PrisonLife_Prototype\\Assets\\Scripts\\Prisoner\\Prisoner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Prisoner\\Prisoner.cs",
+              "ToolTip": "C:\\hsh000724\\PrisonLife_Prototype\\Assets\\Scripts\\Prisoner\\Prisoner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Prisoner\\Prisoner.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAqwCYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T04:45:04.168Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

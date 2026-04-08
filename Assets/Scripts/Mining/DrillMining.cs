@@ -1,0 +1,49 @@
+using UnityEngine;
+
+/// <summary>
+/// 드릴 불도저 범위 채광.
+/// PlayerMining이 Bulldozer 모드일 때 활성화.
+/// OverlapSphere로 범위 내 OreObject를 즉시 채광.
+/// </summary>
+public class DrillMining : MonoBehaviour
+{
+    [Header("Bulldozer Settings")]
+    [SerializeField] public float mineRadius = 2.5f;      // 채광 반경
+    [SerializeField] private float mineInterval = 0.3f;    // 범위 채광 간격
+    [SerializeField] private LayerMask oreLayer;           // Ore 레이어
+
+    private PlayerMining _playerMining;
+    private float _timer;
+
+    private void Awake()
+    {
+        _playerMining = GetComponent<PlayerMining>();
+        enabled = false; // 기본 비활성
+    }
+
+    private void Update()
+    {
+        _timer += Time.deltaTime;
+        if (_timer < mineInterval) return;
+        _timer = 0f;
+
+        // 범위 내 Ore 탐색
+        Collider[] hits = Physics.OverlapSphere(
+            transform.position, mineRadius, oreLayer);
+
+        foreach (Collider hit in hits)
+        {
+            if (_playerMining.CurrentOreCount >= _playerMining.maxOreCount) break;
+
+            OreObject ore = hit.GetComponent<OreObject>();
+            if (ore != null)
+                _playerMining.TryStartMining(ore);
+        }
+    }
+
+    private void OnDrawGizmosSelected()
+    {
+        Gizmos.color = Color.cyan;
+        Gizmos.DrawWireSphere(transform.position, mineRadius);
+    }
+}
